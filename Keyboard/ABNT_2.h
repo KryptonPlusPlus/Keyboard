@@ -108,7 +108,7 @@ namespace CreateKeyboard
 		Enter[0] = "\xB3  \xB3  \xB3";
 		// Fim Enter 1 - down
 		_keyboard_->createKeycaps(3, 14, 2, ' ', ColorForeground::black);
-		_keyboard_->createKeycaps(3, 15, 15, "Jogo da Velha");
+		_keyboard_->createKeycaps(3, 15, 15, "Krypton++");
 		_keyboard_->createKeycaps(3, 16, 2, ' ', ColorForeground::black);
 		_keyboard_->createKeycaps(3, 17, 5, '4');
 		_keyboard_->createKeycaps(3, 18, 5, '5');
