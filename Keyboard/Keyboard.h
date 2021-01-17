@@ -5,7 +5,7 @@
 
 // ----- Início das Inclusões das Bibliotecas -----
 
-#include "VetorPlus.h"
+#include "Utils/VetorPlus.h"
 #include "Keycaps.h"
 
 // Parte do codigo para Windows

@@ -7,7 +7,7 @@
 
 #include <string> // std::string & strlen() & to_string() -> strlen pega o tamanho de uma string, e o to_string() converte um int para string
 
-#include "Utils.h"
+#include "Utils/Utils.h"
 
 // Parte do codigo para Windows
 #ifdef _WIN32 

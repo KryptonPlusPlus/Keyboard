@@ -38,13 +38,13 @@
     <ClInclude Include="Keycaps.h">
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
-    <ClInclude Include="Utils.h">
-      <Filter>Arquivos de Recurso</Filter>
-    </ClInclude>
-    <ClInclude Include="VetorPlus.h">
+    <ClInclude Include="Keyboards\ABNT_2.h">
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
-    <ClInclude Include="ABNT_2.h">
+    <ClInclude Include="Utils\Utils.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils\VetorPlus.h">
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
   </ItemGroup>

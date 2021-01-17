@@ -4,7 +4,7 @@
 #include "Keyboard.h"
 
 // Teclados
-#include "ABNT_2.h"
+#include "Keyboards/ABNT_2.h"
 
 Keyboard::Keyboard(int _height, TypeKeyboard type_keyboard)
 {
@@ -15,7 +15,7 @@ Keyboard::Keyboard(int _height, TypeKeyboard type_keyboard)
 		case TypeKeyboard::_NULL_:
 			break;
 		case TypeKeyboard::ABNT_2:
-			CreateKeyboard::CreateABNT_2(this);
+			CreateABNT_2(this);
 			break;
 		default:
 			break;
